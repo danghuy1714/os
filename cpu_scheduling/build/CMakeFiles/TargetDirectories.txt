@@ -1,0 +1,3 @@
+/home/guest/Desktop/source/cpu_scheduling/build/CMakeFiles/cpu_scheduling.dir
+/home/guest/Desktop/source/cpu_scheduling/build/CMakeFiles/edit_cache.dir
+/home/guest/Desktop/source/cpu_scheduling/build/CMakeFiles/rebuild_cache.dir
